@@ -1,0 +1,24 @@
+===================================
+
+Here is plugin list used in FS_Platform
+
+For Wordpress
+
+===================================
+admin-apply
+akismet
+all-in-one-seo-pack
+autoptimize
+baidu-submit-link
+cat-comment-filter
+daggerhart-openid-connect-generic
+easy-wp-smtp
+google-sitemap-generator
+jonradio-multiple-themes
+qqworld-operating-officer
+title-wordpress-master
+wp-mini-program1.2.8
+wptouch
+wpupyun
+wp-user-avatar
+wx-custom-share
